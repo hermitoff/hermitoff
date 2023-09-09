@@ -1,7 +1,18 @@
-# 🥳 Bienvenue sur mon profile Github !
+# Bienvenue sur mon profil GitHub ! 👋
 
-🪳 Cependant il n'y a pas grand chose a voir ici et je ne suis pas très actif sur Github.
+👋 Je suis Hermito, un passionné d'informatique en general, la programmation c'est pas mon truc...
 
-🕹️ Rejoignez mon [Discord](https://discord.hermito.fr) !
+- 🔭 Actuellement, je travaille sur pas grand chose en particulier.
+- 🌱 J'apprends en ce moment Python.
+- 💬 Demandes d'aide ou de collaboration ? N'hésitez pas à me contacter.
 
-✈️ Si vous souhaitez me contacter (ce que je doute très sincèrement), vous pouvez le faire via [cette adresse](mailto:contact@hermito.fr).
+## Mes statistiques GitHub
+
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Hermitoff&show_icons=true&count_private=true)
+
+## Contactez-moi
+
+- [Mon Email](mailto:contact@hermitoff)
+- [Mon serveur Discord](https://discord.hermito.fr)
+
+N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou souhaitez collaborer sur un projet. Merci de visiter mon profil !
