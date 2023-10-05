@@ -2,7 +2,7 @@
 
 👋 Je suis Hermito, un passionné d'informatique en general, la programmation c'est pas mon truc...
 
-- 🔭 Actuellement, je travaille sur pas grand chose en particulier.
+- 🔭 Actuellement, je travaille sur Aoki !
 - 🌱 J'apprends en ce moment Python.
 - 💬 Demandes d'aide ou de collaboration ? N'hésitez pas à me contacter.
 
