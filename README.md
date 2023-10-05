@@ -2,9 +2,8 @@
 
 👋 Je suis Hermito, un passionné d'informatique en general, la programmation c'est pas mon truc...
 
-- 🔭 Actuellement, je travaille sur Aoki !
+- 🔭 Actuellement, je travaille sur [Aoki](https://github.com/aokimusic) !
 - 🌱 J'apprends en ce moment Python.
-- 💬 Demandes d'aide ou de collaboration ? N'hésitez pas à me contacter.
 
 ## Mes statistiques GitHub
 
