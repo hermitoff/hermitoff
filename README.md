@@ -1,11 +1,12 @@
 # Bienvenue sur mon profil GitHub ! 👋
 
-👋 Je suis Hermito, un passionné d'informatique en general, la programmation c'est pas mon truc...
+👋 Je suis [Hermito](https://hermito.fr), une passionné d'informatique en general, j'aime l'administration système !
 
 - 🔭 Actuellement, je travaille sur [Aoki](https://github.com/aokimusic) !
-- 🌱 J'apprends en ce moment Python.
+- 🌱 En ce moment j'essaye Python et JS.
 
 ## Mes statistiques GitHub
+(Je commit tout le temps dans des dépos privé...)
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Hermitoff&show_icons=true&count_private=true)
 
@@ -14,4 +15,4 @@
 - [Mon Email](mailto:contact@hermitoff)
 - [Mon serveur Discord](https://discord.hermito.fr)
 
-N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou souhaitez collaborer sur un projet. Merci de visiter mon profil !
+Merci de visiter mon profil !
