@@ -1,13 +1,13 @@
-# Bienvenue sur mon profil GitHub ! 👋
+# Hello you! 👋
 
-👋 Je suis [Élodie](https://hermito.fr), une passionnée d'informatique en general, j'aime l'administration système !
-Je travaille sur des petit projets simple en Python et JavaScript.
+👑 I am [Élodie](https://hermito.fr), I like computer science and more precisely, system administration!
+I work on small personnal projects, in JavaScript :3
 
-## Mes statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=hermitoff&show_icons=true&count_private=true)
+## 📊 My GitHub stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hermitoff&show_icons=true&theme=dark)
 
-## Contactez-moi
+## ⛓️ Link
+- [Visit my website](hermito.fr)
+- [DM me please (only if you want)](https://hermito.fr/dm)
 
-- [Mon Email](mailto:contact@hermitoff)
-
-Merci !
+🌸 Thank you :3 !
