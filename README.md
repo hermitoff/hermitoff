@@ -7,7 +7,7 @@ I work on small personnal projects, in JavaScript :3
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hermitoff&show_icons=true&theme=dark)
 
 ## ⛓️ Link
-- [Visit my website](hermito.fr)
+- [Visit my website](https://hermito.fr)
 - [DM me please (only if you want)](https://hermito.fr/dm)
 
 🌸 Thank you :3 !
